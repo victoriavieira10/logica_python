@@ -22,7 +22,7 @@ def divisao():
   else:
    print(f"Resultado:{numero1 / numero2}")
   
-  opcao = ""
+opcao = ""
 while opcao != "5":
 
  numero1= float(input("Digite um número: "))
