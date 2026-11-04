@@ -21,7 +21,6 @@ def divisao():
       print("Não é possível dividir por zero")
   else:
    print(f"Resultado:{numero1 / numero2}")
-  
 opcao = ""
 while opcao != "5":
 
